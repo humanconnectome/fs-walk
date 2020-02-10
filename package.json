@@ -9,7 +9,7 @@
   "author" : "Alberto Gonzalez <alberto@conference-compass.com",
   "license" : "MIT",
   "dependencies" : {
-    "async": "*"
+    "async": "^2.0.0"
   },
   "keywords": ["list", "walk", "directory", "fs"],
   "scripts": {
